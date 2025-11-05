@@ -1,28 +1,21 @@
-# PR Template for Build PR
+## *[JIRA-ID] Jira Ticket*
 
-## PR Description
+### Description
 _Add Brief description of the added feature_
 
-## PR Includes
+### Includes
 - _Item#1_
 - _Item#2_
   - _Item#2.1_
 
-# PR Template for Build/Chore PR
-
-## Problem
+### Problem
 _Add Problem description here_
 
-## Root Cause
+### Root Cause
 _Add Root Cause description here_
 
-## Impact
+### Impact
 _Add Impact description here_
 
-## PR Includes
-- _Item#1_
-- _Item#2_
-  - _Item#2.1_
-
-## Screenshots
+### Screenshots
 _Add Screenshots/Videos here_
