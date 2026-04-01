@@ -1,2 +1,2 @@
 # git_test
-Add New PR template in the repository
+Trying to use multiple PR template
